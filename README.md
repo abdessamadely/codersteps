@@ -1,4 +1,4 @@
-# Codersteps
+## Codersteps Resources
 
 ## Tutorials and Guides
 
@@ -16,15 +16,13 @@
 git clone --branch building-a-file-uploader-with-nextjs-app-router https://github.com/abdessamadely/codersteps.git
 ```
 
----
-
 ### Building a File Uploader with Next.js Pages Router
 
 #### Read More
 
-- Guide: [Building a File Uploader with Next.js Pages Router](https://codersteps.com/guides/building-a-file-uploader-with-nextjs-pages-router)
-- Tutorial: [Building a File Uploader with Next.js Pages Router](https://codersteps.com/tutorials/building-a-file-uploader-with-nextjs-pages-router)
-- Video Guide: [Building a File Uploader with Next.js Pages Router](#)
+- [Building a File Uploader with Next.js Pages Router Guide](https://codersteps.com/guides/building-a-file-uploader-with-nextjs-pages-router)
+- [Building a File Uploader with Next.js Pages Router Tutorial](https://codersteps.com/tutorials/building-a-file-uploader-with-nextjs-pages-router)
+- [Building a File Uploader with Next.js Pages Router Video Guide](#)
 
 #### Source Code
 
@@ -32,15 +30,13 @@ git clone --branch building-a-file-uploader-with-nextjs-app-router https://githu
 git clone --branch building-a-file-uploader-with-nextjs-pages-router https://github.com/abdessamadely/codersteps.git
 ```
 
----
-
 ### Building a File Uploader with Next.js Server Actions
 
 #### Read More
 
-- Guide: [Building a File Uploader with Next.js Server Actions Guide](https://codersteps.com/guides/building-a-file-uploader-with-nextjs-server-actions)
-- Tutorial: [Building a File Uploader with Next.js Server Actions Tutorial](https://codersteps.com/tutorials/building-a-file-uploader-with-nextjs-server-actions)
-- Video Guide: [Building a File Uploader with Next.js Server Actions Video Guide](#)
+- [Building a File Uploader with Next.js Server Actions Guide](https://codersteps.com/guides/building-a-file-uploader-with-nextjs-server-actions)
+- [Building a File Uploader with Next.js Server Actions Tutorial](https://codersteps.com/tutorials/building-a-file-uploader-with-nextjs-server-actions)
+- [Building a File Uploader with Next.js Server Actions Video Guide](#)
 
 #### Source Code
 
